@@ -1,0 +1,26 @@
+#YouTube{
+    background-color: rgb(209, 30, 30);
+}
+
+#Twitch{
+    background-color: rgb(154, 102, 236);
+}
+
+#Kick{
+    background-color: rgb(60, 218, 28);
+}
+
+#YouTube, #Twitch, #Kick{
+    text-align: center;
+
+}
+
+#navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#li, #a {
+    display: inline;
+}
